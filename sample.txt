@@ -1,0 +1,12 @@
+#median
+from statistics import median
+def findmedian9(value):
+    return median(value)
+valuelist=(1,3,4,5,8,9,11)
+print(the value of median is :'findmedian(valuelist))
+
+
+
+
+
+my name is Ayishetu umar i am a student of zongovationhub
